@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Login_InClass6</string>
+    <string name="first_name_editText_hint">First Name</string>
+    <string name="last_name_editText_hint">Last Name</string>
+    <string name="email_id_et">E mail</string>
+    <string name="password_et">Password</string>
+    <string name="repassword_et">Repeat Password</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="sign_up_button">Sign up</string>
+    <string name="login_editText">Email</string>
+    <string name="password_editText">Password</string>
+    <string name="login_button">Login</string>
+    <string name="signup_button">Sign Up</string>
+    <string name="newthread">Add New Thread</string>
+    <string name="current_thread">Current Threads</string>
+    <string name="type_message">Type message to send</string>
+
+</resources>
